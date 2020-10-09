@@ -1,6 +1,6 @@
 ﻿#注意：如果在记事本上编写，下面的缩进不要使用Tab来缩进，不然报错
 
 config:
-    info: "master branch,springcloud-config/config-dev.yml version=1"
+    info: "master branch,springcloud-config/config-dev.yml version=2"
     
 #保存时注意，选择 UTF-8 保存
